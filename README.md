@@ -1,5 +1,4 @@
 # Source code for paper "Aggregation-Based Graph Online Hashing for Image Retrieval"
-![这是图片]("C:\Users\贾文哲\Pictures\framework1.png" "AGOH")
 
 # Requirements
 My environment is
